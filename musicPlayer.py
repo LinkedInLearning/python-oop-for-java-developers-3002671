@@ -16,6 +16,10 @@ class musicPlayer:
   def switchOn(self):
     power =1
 
+  def changeVolume():
+    self.volume += 1
+    return self.volume
+
   def changeVolume(self, new_Vol):
     if new_Vol <= self.max_Vol:
       self.volume = new_Vol
