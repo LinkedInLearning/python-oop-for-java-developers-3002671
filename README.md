@@ -1,19 +1,21 @@
-# Python Object-Oriented Progamming for Java Developers
-This is the repository for the LinkedIn Learning course `Python Object-Oriented Programming for Java Developers`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Python Object-Oriented Programming for Java Developers
+This is the repository for the LinkedIn Learning course Python Object-Oriented Programming for Java Developers. The full course is available from [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-As the examples in this course are used across multiple videos, each exercise file is located in the "Main" branch. To use the files, follow the installation instructions below and open the file that corresponds to the file shown on screen.
+![Python Object-Oriented Programming for Java Developers][lil-thumbnail-url] 
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- A code editor, such as VS Code.
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+Most programmers are familiar with object-oriented programming (OOP), but do you know how it applies to Python? In this course, instructor Deepa Muralidhar trains Java developers in Python OOP. Deepa first introduces the key terms you will need to know. Then she walks you through class design, methods (including overloading), abstraction, inheritance, and more. Deepa goes in-depth on class design, with important details on Java syntax and Python syntax. Plus, she shows you Java syntax, Python syntax, abstract classes, and more with the correct inheritance text.
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+### Instructor
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+Deepa Muralidhar 
+                            
+Computer Science professor
+
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/deepa-muralidhar).
+
+[lil-course-url]: https://www.linkedin.com/learning/python-object-oriented-programming-for-java-developers
+[lil-thumbnail-url]: https://cdn.lynda.com/course/3002671/3002671-1643130786045-16x9.jpg
 
