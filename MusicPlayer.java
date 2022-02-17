@@ -1,12 +1,12 @@
 import java.util.*;
-public class musicPlayer
+public class MusicPlayer
 {
 private List<String> songList = new ArrayList<String>(10);
 private int power;
 private double volume;
 private int position;
 
-public musicPlayer()
+public MusicPlayer()
 {
   power =0; // 1= on, 0 = off
   volume = 1.0;
@@ -14,7 +14,7 @@ public musicPlayer()
   populateList();
   
 }
-public musicPlayer(double v, int pwr, int pos)
+public MusicPlayer(double v, int pwr, int pos)
 {
   power =pwr; // 1= on, 0 = off
   volume = v;
